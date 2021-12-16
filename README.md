@@ -13,4 +13,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongwk&show_icons=true&theme=dracula)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Seongwk)](https://github.com/Seongwk/github-readme-stats)
+
