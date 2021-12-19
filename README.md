@@ -19,7 +19,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongwk&show_icons=true&theme=dracula)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seongwk&repo=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeongWk&repo=dark)
 
 
 
