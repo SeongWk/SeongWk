@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Lim%20Seong%20Wook&fontSize=90)
+
+
 ##
 👋 Hi, I’m @SeongWk :)
 - 👀 I’m interested in app, Travel, Tea, Soccer, Music, blablabla .. etc!!
