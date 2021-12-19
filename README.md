@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=Xcode&logoColor=000000"/> <img src="https://img.shields.io/badge/MacOS-white?style=flat&logo=MacOS&logoColor=000000"/> <img src="https://img.shields.io/badge/Apple-white?style=flat&logo=Apple&logoColor=000000"/> 
 
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white). ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white). ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white). ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongwk&layout=compact&theme=tokyonight) 
 
