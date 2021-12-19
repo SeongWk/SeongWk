@@ -14,9 +14,10 @@
 <img src="https://img.shields.io/badge/MacOS-white?style=flat&logo=MacOS&logoColor=000000"/> <img src="https://img.shields.io/badge/Apple-white?style=flat&logo=Apple&logoColor=000000"/>  
 
 
+<Tech>
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white). ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white). 
 
-
+<Social>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white).![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
 
