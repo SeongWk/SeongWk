@@ -2,10 +2,10 @@
 
 ##
 👋 Hi, I’m @SeongWk :)
-- 👀 I’m interested in app, Travel, Tea, Soccer, Music, blablabla .. etc!!
+- 👀 I’m interested in app, Travel, Tea, Music!!
 - 🌱 I’m currently learning Swift with Xcode 
 - 📫 I’m studying App 
-- 📖 I’m majored in Computer Science 
+- 📖 I’m majored in Computer Science (2015-2021)
 - 😁My hobby is playing the guitar, walking in park
 ##
 
