@@ -38,4 +38,3 @@ I wish :
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={lsw77210})](https://solved.ac/{lsw77210})
-
