@@ -3,7 +3,7 @@
 ##
 👋 Hi, I’m @SeongWk :)
 - 👀 I’m interested in app, Travel, Tea, Music!!
-- 🌱 I’m currently learning Swift with Xcode 
+- 🌱 I’m currently learning Swift with Xcode and Kotlin with Android
 - 📫 I’m studying App 
 - 📖 I’m majored in Computer Science (2015-2021)
 - 😁My hobby is playing the guitar, walking in park
