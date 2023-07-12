@@ -19,6 +19,8 @@ i used:
 Tech:
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white). ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white). 
+![kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white).
+![android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white).
 
 Social:
 
