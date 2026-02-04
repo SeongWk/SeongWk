@@ -35,4 +35,8 @@ I wish :
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsw77210)](https://solved.ac/lsw77210)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongwk&layout=compact&theme=tokyonight) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongwk&show_icons=true&theme=dracula)   
+
 
